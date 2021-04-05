@@ -1,4 +1,4 @@
-package io.javabrains.coronavirustracker;
+package io.tungttran.coronavirustracker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
